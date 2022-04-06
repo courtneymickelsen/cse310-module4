@@ -11,7 +11,7 @@ class Transactions:
     def display_menu(self):
         print("\n-----------------------------\nMENU:\n1) See yearly transaction total \n2) See monthly transaction total \n3) See daily transaction total \n4) Add a new transaction \n5) Delete a transaction \n6) Quit program \n-----------------------------\n")
         self.choice = input("Select a menu item (1-6): ")
-
+        
         # switch/case for menu
         if self.choice == 1:
             pass
@@ -42,6 +42,7 @@ class Transactions:
 
 def main():
     t = Transactions()
+    t.add_transaction()
     while t.choice != 6:
         t.display_menu()
 
