@@ -4,9 +4,7 @@ I created this program to get an introduction to the C++ language. I wanted to l
 
 I wrote a program to record transactions for a small business to use to track expenses. You can add transactions and amounts, as well as view transactions from the file based on day, month, or year.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/zO3DhbanvuE)
 
 # Development Environment
 
@@ -17,6 +15,7 @@ I developed this software using Apple's XCode, and I programmed it in the C++ la
 * [W3 Schools](https://www.w3schools.com/cpp/cpp_classes.asp)
 * [Geeks for Geeks](https://www.geeksforgeeks.org/substring-in-cpp/)
 * [Stack Overflow](https://stackoverflow.com/questions/5343173/returning-to-beginning-of-file-after-getline)
+* [Codecademy](https://www.codecademy.com/learn/learn-c-plus-plus/modules/learn-cpp-classes-and-objects/cheatsheet)
 
 # Future Work
 
