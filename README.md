@@ -20,6 +20,6 @@ I developed this software using Apple's XCode, and I programmed it in the C++ la
 # Future Work
 
 {Make a list of things that you need to fix, improve, and add in the future.}
-* I would like ot add support for deleting transactions. This would involve searching each line, and removing lines that match the remove value.
+* I would like to add support for deleting transactions. This would involve searching each line, and removing lines that match the remove value.
 * This doesn't happen often, but sometimes I get a bug where the menu doesn't accept user input and it just keeps looping. I'd like to figure that out.
 * I'd also like to update it so that the user doesn't have to end the program in order to save the added transactions to the file and view them.
